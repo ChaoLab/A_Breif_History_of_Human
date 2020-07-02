@@ -3,42 +3,43 @@ The book by Yuval Noah Harari
 
 <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sapiens_A_Brief_History_of_Humankind.jpg" width="50%">
 读书笔记    
+* * *
 ### 9. The arrow of history 
-Myths and fiction created artificial instincts that enables millions of strangers to cooperate effectively. This network of artificial instincts is called culture.
+Myths and fiction created artificial instincts that enables millions of strangers to cooperate effectively. This network of artificial instincts is called culture.  
 文化是人为编织的一张观念认知的网。每一种文化的开源都充满着秘密和传说，其实文化就是一种自我适应建立起来的生活观念和方式，开端都很飘渺。但是却能有效的联系人们一起去合作生活。
 
 Every culture has its typical beliefs, norms and values, but these are in constant flux.
 
-Unlike the laws of physics, which are free of inconsistencies, every man-made order is packed with internal contradictions. Cultures are constantly trying to reconcile these contradictions, and this process fuels change. 
+Unlike the laws of physics, which are free of inconsistencies, every man-made order is packed with internal contradictions. Cultures are constantly trying to reconcile these contradictions, and this process fuels change.  
 除了物理定律以外，只要是人所指定的规则，那么就会包涵内在的矛盾（这是不是和马克思主义哲学里面对立统一的原则是一样的?）。中国的传统的为人处事的格言里面，比如增广贤文，里面也有一些相反的表述，比如“人无远虑，必有近忧。”和“为人莫做千年计，三十河东四十西。”不同的话，在不同的语境下，在不同的实际情况下，都各自有道理。
 
 中国古代认为耕读是本业，工商是末业。随着时代的发展，工商和科技变成了现在的支柱产业，相应的，农耕文明所孕育出来的农耕文化也会经受内在矛盾的冲击，慢慢的演变成与现实相适应的工业或者数码或者生物科技文化。
 
-Discord in our thoughts, ideas, and values compel us to think, re-evaluate, and criticize. 
+Discord in our thoughts, ideas, and values compel us to think, re-evaluate, and criticize.   
 就是因为这些存在于文化中的矛盾，激发思考，产生新的观念。文化才不断的演进。
 
-If a Christian really wants to understand Muslim, he shouldn’t look for a pristine set of values that every Muslim holds dear. Rather, he should enquire into the catch-22s of Muslim culture, those places where rules are at war and standards scuffle.
+If a Christian really wants to understand Muslim, he shouldn’t look for a pristine set of values that every Muslim holds dear. Rather, he should enquire into the catch-22s of Muslim culture, those places where rules are at war and standards scuffle.  
 了解一种文化最好的办法就是进入里面矛盾的地方，一窥其实质。中华文化的矛盾是什么？强调次序，强调稳定，强调忠诚。实际上，越是强调的地方，越是薄弱的地方，人口这么多，在外来文化的冲击下，人心不稳，就会产生社会的大动荡，而这样对每个人来讲都是损失。
 
 人人追求平等，过分的强调平等就损害了既得利益者的自由。要追求儒家道德意义上社会的和谐，那么就会压抑人心，压抑欲望，这是两难的问题。
 
 #### 9.1. The Spy Satellite
-The break-ups of culture and language are temporary reversals in an inexorable trend towards unity.
+The break-ups of culture and language are temporary reversals in an inexorable trend towards unity.  
 文化和语言的合并统一是历史的必然。
 
-From such vantage point it becomes crystal clear that history is moving relentlessly towards unity. 
+From such vantage point it becomes crystal clear that history is moving relentlessly towards unity.  
 站在以千年为单位的有利历史视角上面，才能看到文化相互影响进而统一的历史进程。
 
-It takes the Afro-Asian giant several centuries to digest all it had swallowed, but the process is irreversible. Today all humans share the same geopolitical system, the same economic system, the same legal system, and the same scientific system. 
+It takes the Afro-Asian giant several centuries to digest all it had swallowed, but the process is irreversible. Today all humans share the same geopolitical system, the same economic system, the same legal system, and the same scientific system.  
 所以中医也是科学医学所要洗掉，掩盖掉的一类是似而非的“学科”吗？科学的系统只有一个。而那些有效的中草药只是碰巧（青蒿素）或者只是安慰剂而已？
 
-We still talk about “authentic” cultures, but if by “authentic” we mean something that developed independently, and that consists of ancient local traditions free of external influences, then there are no authentic cultures left on earth. Over the last few centuries, all cultures were changed almost beyond recognition by a flood of global influence.
+We still talk about “authentic” cultures, but if by “authentic” we mean something that developed independently, and that consists of ancient local traditions free of external influences, then there are no authentic cultures left on earth. Over the last few centuries, all cultures were changed almost beyond recognition by a flood of global influence.  
 文化在不知不觉当中受到外接因素的影响。
 
 电影当中的美洲原住民骑士的形象并不是真的。他们不是古老文化的捍卫者。美洲原住民骑士是17，18世纪发生在西北美洲大草原上一系列军事和政治革命的产物。
 
-#### 9.2. The global vision
-从进化的角度来讲，人类和其他的动物一样，有着“我们”和“他们”之分。但是人类从公元一千年以前开始逐渐发展出来了一种全球的观念。这个观念是从公元前一千年古埃及统一开始逐渐发端的。人类开始合作，统一的帝国开始可以形成。人们开始意识到整个世界和整个人类其实可以被统一到一些基本的规则上去。这样以来所有的人都是“我们”，最为人类这一个整体。三样法宝有全球的整合力，金钱，政治和宗教。
+#### 9.2. The global vision  
+从进化的角度来讲，人类和其他的动物一样，有着“我们”和“他们”之分。但是人类从公元一千年以前开始逐渐发展出来了一种全球的观念。这个观念是从公元前一千年古埃及统一开始逐渐发端的。人类开始合作，统一的帝国开始可以形成。人们开始意识到整个世界和整个人类其实可以被统一到一些基本的规则上去。这样以来所有的人都是“我们”，最为人类这一个整体。三样法宝有全球的整合力，金钱，政治和宗教。    
 
 ### 10. The scent of money
 Even the catholic bishops of Melgueil and Agde issued these faithful copies of popular Muslim coins, and God-fearing Christians happily used them.
