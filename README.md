@@ -2,7 +2,7 @@
 
 The book by Yuval Noah Harari
 
-<img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sapiens_A_Brief_History_of_Humankind.jpg" width="50%">
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1593716187233&di=20b4ab67c985a7c7953b0f605313b824&imgtype=0&src=http%3A%2F%2Fm.360buyimg.com%2Fn12%2Fjfs%2Ft1429%2F274%2F808812087%2F17681%2Fa95e5b31%2F55adc2a5N1f260a78.jpg%2521q70.jpg" width="50%">
 
 **读书笔记**
 
@@ -236,7 +236,9 @@ Unlike physics or economic, history is not a means for making accurate predictio
 古代的中国人很懂这个问题。“天数”，“天数”不可预测；也有“异数”的存在, 就是难以以当时人们的眼光来预测的黑天鹅事件。对于古代王朝治乱兴衰，有“气数”的说法， “气数”也是一个高层次的混沌问题。预测对于古代王朝政治的影响，有“谶纬之学”； 里面说的话都很模糊，所以在任何的时间的点都可以匹配上，如果被有心人利用，就会形成起义的导火索。同时，从另一方面不准的推论都可以预言的不确定性来搪塞，这样以来这些预言就不可能被证伪了。  
 被政治家利用，就变成鼓动人心的口号和工具，达到不可预估的效用。最有名的就是陈胜吴广的“大楚兴陈胜王”。历代封建王朝的统治者们都查禁谶纬之书，但是都会自觉不自觉的创造和继承一些预言，为自己所用。
 
-#### 13.2 Blind Clio # Clio is the muse of history in ancient Greek
+#### 13.2 Blind Clio 
+
+Clio is the muse of history in ancient Greek
 
 There is no proof that human well-being inevitably improves as history rolls along.
 
@@ -247,7 +249,8 @@ Culture is very similar to virus. Christian heaven and communist paradise are th
 Human dies, but the idea spreads.  
 The concept of “memetics”.  
 Organic evolution is based on the replication of organic information unites called “genes”, cultural evolution is based the replication of cultural information unites called “memes”. Successful cultures are those that excel in reproducing their memes, irrespective of the costs and benefits to their human hosts.  
-(So some of Chinese cultural elements have the same “reproducing” magic and power to spread and strengthen itself? For example, the culture of family names and the worship to ancestor, these ideas will help the cultural children to remember firmly the cultural roots. China is more like a cultural country that was reinforced by the Han culture, but not a national country that is mainly grouped by the people with the same ethnic origin.) 黄道周更多的是殉死于大明道统，儒家忠君文化，而不是仅仅的一个皇帝。
+(So some of Chinese cultural elements have the same “reproducing” magic and power to spread and strengthen itself? For example, the culture of family names and the worship to ancestor, these ideas will help the cultural children to remember firmly the cultural roots. China is more like a cultural country that was reinforced by the Han culture, but not a national country that is mainly grouped by the people with the same ethnic origin.)   
+黄道周更多的是殉死于大明道统，儒家忠君文化，而不是仅仅的一个皇帝。
 
 The nationalist virus presented itself as being beneficial for humans, yet it has been beneficial mainly to itself.  
 虽然知道这个观点是对的，但是这个观点实在是难已接受。国家主义对个人没有意义，而只对其本身有意义。当然，没有各个人的国家主义，这个国家在外力的干预下就不会存在。这些主义的观念像病毒一样需要取食于载体，来完成它自己的存在。
