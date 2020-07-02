@@ -2,9 +2,7 @@
 The book by Yuval Noah Harari
 
 <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sapiens_A_Brief_History_of_Humankind.jpg" width="50%">
-读书笔记  
-
-
+读书笔记    
 ### 9. The arrow of history 
 Myths and fiction created artificial instincts that enables millions of strangers to cooperate effectively. This network of artificial instincts is called culture.
 文化是人为编织的一张观念认知的网。每一种文化的开源都充满着秘密和传说，其实文化就是一种自我适应建立起来的生活观念和方式，开端都很飘渺。但是却能有效的联系人们一起去合作生活。
@@ -199,18 +197,10 @@ Even though it has often emphasized racial and cultural differences between rule
 
 
 
-
-
-
-
-
-
-
-
-###13. The secret of success.
+### 13. The secret of success.
 Saying that a global society is inevitable is not the same as saying that the end result had to be the particular kind of global society now we have.
 
-####&emsp;1. The Hindsight Fallacy
+#### 13.1 The Hindsight Fallacy
 It is an iron rule of history that what looks inevitable in hindsight was far from obvious at the time. Not that everything is possible. Geographical, biological and economic forces create constraints. Yet these constraints leave ample room for surprising developments, which do not seem bound by any deterministic laws.
 
 Level 1 and Level 2 Chaos.
@@ -220,7 +210,7 @@ Unlike physics or economic, history is not a means for making accurate predictio
 古代的中国人很懂这个问题。“天数”，“天数”不可预测；也有“异数”的存在, 就是难以以当时人们的眼光来预测的黑天鹅事件。对于古代王朝治乱兴衰，有“气数”的说法， “气数”也是一个高层次的混沌问题。预测对于古代王朝政治的影响，有“谶纬之学”； 里面说的话都很模糊，所以在任何的时间的点都可以匹配上，如果被有心人利用，就会形成起义的导火索。同时，从另一方面不准的推论都可以预言的不确定性来搪塞，这样以来这些预言就不可能被证伪了。
 被政治家利用，就变成鼓动人心的口号和工具，达到不可预估的效用。最有名的就是陈胜吴广的“大楚兴陈胜王”。历代封建王朝的统治者们都查禁谶纬之书，但是都会自觉不自觉的创造和继承一些预言，为自己所用。
 
-####&emsp;2. Blind Clio # Clio is the muse of history in ancient Greek
+#### 13.2 Blind Clio # Clio is the muse of history in ancient Greek
 There is no proof that human well-being inevitably improves as history rolls along.
 Different culture has different view of good. There is no proof that history is working for the benefit of humans because we lack an objective scale on which to measure such benefit.
 Culture is very similar to virus. Christian heaven and communist paradise are the same. A culture idea can compel a human to dedicate his/her life to spreading that idea, even at the price of death. (政治理念也是一样的)
