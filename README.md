@@ -292,6 +292,57 @@ The ultimate achievement of the Chinese Empire is that it is still alive and kic
 Today's Indians, Chinese, and Africans have accpeted much of the imperial culture of their former Western overlords, while seeking to mould it in accordance with their needs and traditions.
 现在的民族国家，他们继承了之前西方殖民者们的文化，加以发展，要么是为了实用主义的目的，要么就是选取了适应他们传统文化里面的部分。
 
+#### 11.5 Good guys and bad guys in history
+The most of today's culture are based on imperial legacies. If empires are by definition bad, what does that say about us?  
+简单的定义帝国是坏或者好是不对的。
+
+Perhaps you could make a case that some of the myriad cultures that emerged at the drawn of recored history were pure, untouched by sin and unadulterated by societies. But no culture since that dawn can reasonably make that claim, certainly no culture that exists now on earth.  
+早期的文明,所谓的纯粹的文明，没有罪恶，没有被后面的时代改变、掺假的文明，其实不存在。
+
+Western ideas such as self-determination and human rights, and were dismayed when the British refused to live up to their own declared values by granting native Indians either equal rights as British subjects or independence.  
+民族自觉和人权，甚至没有被当权者授予同等待遇的失落感，都是西方带来的思想。
+
+The British killed, injured and persecuted the inhabitants of the subcontinent, but they also united a bewildering mosaic of warring kingdoms, principalities and tribes, creating a shared national conciousness and a country than functioned more or less as a single political unit.  
+英国殖民者杀了不少印度人，做了不少孽，但是也统一了印度，印度之前是由四分五裂的小国家，小部落组成的，现在确有了国家的观念，成为了一个统一的政治实体。
+
+How many Indians today would want to call a vote to divest (脱去) themselves of democracy, English, the railway network, the legal system, cricket and tea on the grounds that they are imperial legacies? And if they did, wouldn't the very act of calling a vote to decide the issue demonstrate their debt to their former overlord?  
+神逻辑！ 投票本身就是来源于英国的政治系统，所以这个结论是经的起证明的。 
+
+Even if we were to completely disavow the legacy of a brutal empire in the hope of reconstructing and safeguarding the "authentic" cultures that preceded it, in all probability what we will be defending is nothing but the legacy of an older and no less brutal empire.  
+其实我们defend的文化只不过是上一个帝国留下来的文化的遗产。
+
+Nobody really knows how to solve this thorny question of culture inheritance. Whatever path we take, the first step is to acknowledge the complexity of the dilemma and to accept that simplistically dividing the past into good guys and bad guys leads nowhere.  
+文化的继承是个难题，简单的区分好人或者坏人不是一个正确的途径。
+
+#### 11.6 The new global empire (新的全球性的帝国)
+
+The empire in the future will not necessarily be ruled by a single country or ethnic group.  
+未来世界的帝国可能不是只由一个国家来统治的。
+
+Their economies (their refer to the ~200 states in the current world) form a single global network of trade and finance.  
+全球的经济都被连接起来。
+
+A multi-ethnic global society is forming over and above the individual states.
+
+Enterpreneurs, engineers, bankers and scholars throughout the world speak the same language and share similar views and interests.  
+全球的企业家，工程师，银行家和学者都拥有共同的观点和兴趣。
+
+An even greater challenge is posed by new technologies such as bioengineering and artificial intelligence.  
+现在科技的进步可能带来巨大的改变和挑战。比如说，生物工程和AI技术。
+PS：生物工程现在在中国是红牌专业，也就是产业没有发展起来，学生学习了以后很难找到好的工作。不知道生物工程的经济增长点在哪里？我们的就业的明天在哪里？
+
+Perhaps global cooperation can only be secured through violent clashes and the imposition of a new conquering empire. 
+
+No empire was turly universal, and no empire really served the benefit of all humans.
+
+Will a future empire do better? 
+
+Who knows?
+
+
+
+
+
 
 ---
 
