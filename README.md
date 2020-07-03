@@ -219,6 +219,80 @@ Even though it has often emphasized racial and cultural differences between rule
 
 退一步来讲，个人有个人的选择，但是作为一个文明实体来讲，没有半点的退路。退路意味着就是消逝在历史的长河里，变成了在后代历史课本里面那一个曾经有过什么故事，但现在不见了的第 1000 零 1 个文明而已。
 
+#### 11.4 When they become us
+
+Ideas, people, goods and technology spread more easily within the borders of an empire than in a politically fragmented region.  
+在一个完整的帝国里面，思想，人口，货物，技术才能更快更有效的传递。四分五裂的地方这些都办不到。
+
+Empires actively spread a common culture was to gain legitimacy.
+帝国本身为了巩固自己的合法性也要积极的传播文化，传播思想。
+
+China's ruling class treated their country's neighbos and its forgein subjects as miserable barbarians to whom the empire must bring the benefits of culture.  
+帝国本身推行自己的理念。在此同时，统治者们认为，他们的行为也是对于周边少数民族的恩赐-是为了你们的好，不然你们还是一群不知天朝威仪的土人。看来高等文化的大沙文主义应该也是天生的。一个文明只要它占据了优势的地位，有了帝国的权威，就会向外界扩散，向外输出，自我标榜。  
+  
+80年代之前，中国和香港的经济和文化的力量相比差距还很大，TVB，香港电影的明星们就成了高大上的流行。现在，还有多少人在关注一个小地方的文化动向？经济方面，香港的地位也是在逐年的递减。
+
+The Romans, too, justified their dominion by arguing that they were endowing the barbarians with peace, justice, and refinement.  
+罗马帝国的统治者们也是认为他们的统治是给那些野蛮人好处。
+
+一长段的排比句，从罗马帝国政府征服野日耳曼人和高卢人，到莫里安帝国传播佛教，到穆斯林传播伊斯兰教，到西班牙和葡萄牙传播信仰实际抢夺钱财，到大英帝国传播自由和贸易，到苏联传播共产主义，到美国传播民主和人权。  
+目的就是说明帝国传播自己文化和理念是历史的必然和内在的属性。  
+所以从某种程度上来说谨守住自己的文化的底线是相对弱小的文明应对这些冲击的办法。 
+社会制度和生活方式也是这些文明长时间以来形成的固定思想模式的产物。比如，在东亚搞民主选举制度就不是那么成功。只有长期与西方民主社会接轨，并且接受他们文明产物的地方才能有效的实行民主选举制度。   
+但是，最后的结果应该还是小文明守不住，而各种各样的文明将会被吞并，被同化。世界上最后只有少数的一些文明，在最后的历史阶段，做最后的博弈。  
+
+While some emperors sought to purify their cultures and return to what they viewed as their roots, for the most part empires have begot hybrid civilizations that absorbed much from their subject peoples.  
+帝国吸取被征服民族的文化是常态。虽然有的时候，为了文化的纯洁性，他们也压制其他文化，保持自身的文化。
+
+In the imperial United States, a American president of Kenyan blood can munch on Italian pizza while watching his favorite film, Lawrence of Arabia, a British epic about the Arab rebellion against the Turks.
+美国文化多元的最有利的证明。 
+
+在这本书里面，至少在这个章节里面，最常用的词汇就是“征服”。  
+conquer, subdue, subjugate, vanquish  
+征服者的名字也有很多:  
+conqueror, vanquisher, and conquistador（西班牙征服者)  
+
+The process of assimilation was often painful and traumatic. It is not easy to give up familiar and loved local trandition, just as it is difficult and stressful to understand and adopt a new culture.  
+同化的过程非常的痛苦，文化转变的过程也是非常的难的。
+
+The generations between conquest and acceptance were left out in the cold. They had already lost their beloved local culture, but they were not allowed to take an equal part in the imperial world. On the contrary, their adapoted culture continued to view them as barbarians.  
+那些被征服和接受文化之间的几代人其实是被冷酷的抛弃的（文化接受是多么的难啊）。  
+被同化了，但是还是不被接受，这个事实是多么的冷酷。
+
+One famous anecdote tells of an ambitious Indian who mastered the intricacies of the English language, took lessons in Western-style dance, and even became accustomed to eating with a knife and fork. Equipped with his new manners, he travelled to England, studied law at University College London, and became a qualified barrister. Yet this young man of law, bedecked in suit and tie, was thrown off a train in the British colony of South Africa for insisting on travelling first class instead of settling for third class, where "colored" men like him were supposed to ride.   
+His name was Mohandas Karamchand Gandhi.  
+即使是甘地也是遭受这样的待遇。现在也是一样不过，这些都是implicit discrimination，在社会的里层。
+
+In some cases the processes of acculturation and assimilation eventually broke down the barrier between the newcomers and old elite.  
+好的一面是，有时候文化的同化，也会打破新来的人和旧贵族之间的隔阂。
+
+Rulers and Ruled alike come to see "them" as "us".
+
+Claudius reminded them (the senators who protested introducing foreignors into the heart of the ruling corps) an inconvinient truth. Most of their own senatorial families descended from Italian tribes who once fought against Rome, and were later granted Roman citizenship. Indeed, the emperor reminded them, his own family was of Sabine ancestry.  
+罗马人自己，最核心的政治高层，也是从外族同化过来的。
+
+
+The great success of the Arab imperial project was the the imperial cluture it created was wholeheatedly adpoted by numerous non-Arab people, who continuted to uphold it, develop it and spread it - even after the original empire collapsed and the Arabs as an ethnic group lost their dominion.
+
+The ultimate achievement of the Chinese Empire is that it is still alive and kicking, yet it is hard to see it as an empire except in outlying areas such as Tibet and Xinjiang.   
+中华帝国非常成功，现在都还存在，并且不断的成长当中。中国已经是一个不分你我的整体，现在唯一可以看出它的帝国属性的就是边疆地区，西藏和新疆。  
+这些边缘地区的文化被同化是历史的必然。同样的，在被殖民文化影响超过百年的香港，逻辑是一样的。中央没有那么强大时，他们还可以共存，中央强大时，他们必然会受到影响。中国强大的趋势在现在的历史时间内，是一个大趋势。  
+
+
+帝国发展六部曲：  
+1. 小的民族建立帝国  
+2. 帝国的文化形成  
+3. 被统治的民族接受帝国的文化  
+4. 在共同的帝国观念的影响下，被统治的名族要求同等的待遇  
+5. 帝国的建立者失去了主导权  
+6. 帝国的文化继续发扬光大  
+ 
+所以现在的中国接受到了很多西方文化的因子（西方的普世价值，社会主义的观念），发扬光大，改造，并且同化到自己的文化里面去了。
+
+Today's Indians, Chinese, and Africans have accpeted much of the imperial culture of their former Western overlords, while seeking to mould it in accordance with their needs and traditions.
+现在的民族国家，他们继承了之前西方殖民者们的文化，加以发展，要么是为了实用主义的目的，要么就是选取了适应他们传统文化里面的部分。
+
+
 ---
 
 ### 13. The secret of success.
