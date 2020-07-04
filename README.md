@@ -339,6 +339,45 @@ Will a future empire do better?
 
 Who knows?
 
+---
+
+### 12. The law of religion
+
+All people from the Mongol Empire obeyed the command of a single emperor.  
+在蒙古帝国的疆域里面，所有的人，虽然奇奇怪怪，形形色色，但是都遵循着同一个皇帝的命令。  
+这里指出了帝国是人类统一的重要因素，同时也引出下面的，另外一个重要因素，宗教。
+
+Today, religion is oftern considered a source of discrimination, disagreement and disunion. Yet, in fact, religion has been the third great unifier of humankind, alongside money and empires.  
+宗教可能现在被认为是歧视和分裂的根源（那其实是因为不同宗教之间的隔阂），但是其实它是除了金钱，帝国之外的第三个联系统一人类的纽带。
+
+All social orders and hierarchies are imagined, they are fragile, and the larger the society, the more fragile it is.    
+所有社会的规则和等级制度都是想象的，都是脆弱的，而社会越大，越脆弱。
+
+Religions assert that our laws are not the result of human caprice, but are ordianed by an absolute and indisputable authority. This helps place at least some fundamental laws beyond challenge, thereby ensuring social stability.    
+宗教的律法不是简单的人类的规定，而是来源于绝对的，不容质疑的权威（神）。这样就产生了一些可以不受挑战，牢不可破的律法，来维持社会的稳定。
+
+Religion can thus be defined as a system of human norms and values that is founded on a belief in a superhuman order.  
+宗教是一个规范和价值的体系，这个体系是建立在对一个超人类次序的信仰上。
+宗教有两个准则：  
+1.宗教是一整个观念和价值得体系，而不仅仅是一种独立的习惯和信仰。  
+2.宗教的观念和价值体系是基于神圣的，超自然的力量，而不是人类自己本身制定的。
+
+In order to unite under its aegis a large expanse of territory inhabited by disparate groups of human beings, a religion must possess two further qualities. First, it mush espouse a universal superhuman order that is true always and everywhere. Second, it must insist on spreading this belief to everyone. In other words, it must be universal and missionary.  
+为了使得统一和团结来自不同地域不同群体的人类都能受到宗教的庇护，宗教必须有两个特性：  
+1.它必须拥护一个普适超人类的次序，而这个次序必须永远是对的，而且不管到哪里都是对的  
+2.它必须坚持传播它的信仰到全世界所有的人。  
+两个特性就是普世正确和有使命去传播。
+
+As far as we know, universal and missionary religions began to appear only in the first millennium BC. Their emergence was one of the most important revolutions in history, and made a vital contribution to the unification of humankind, much like the emergence of universal empire and universal money. 
+普世正确和有使命去传播的宗教最早出现在公元前1千年。它们的出现是历史上最重要的革命，对统一全人类有着至关重要的贡献，就像那些普世的帝国和金钱一样。  
+
+#### 12.1 Silencing the lambs
+
+
+
+
+
+
 
 
 
@@ -346,7 +385,7 @@ Who knows?
 
 ---
 
-### 13. The secret of success.
+### 13. The secret of success
 
 Saying that a global society is inevitable is not the same as saying that the end result had to be the particular kind of global society now we have.
 
