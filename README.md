@@ -373,6 +373,52 @@ As far as we know, universal and missionary religions began to appear only in th
 
 #### 12.1 Silencing the lambs
 
+Animism religions tended to be very local in outlook, and to emphasize the unique features of specific locations, climates and phenomena.  
+泛神论的一些观点比较本土化，都来自于特定的地点，气候和现象。
+
+The Agricultural Revolution seems to have been acccompanied by a religious revolution.  
+农业革命同时也带来了宗教上的革命。
+
+Being communicated with one another directly and negotiated the rules governing their shared habitat. In contrast, farmers owned and manipulated plants and animals, and could hardly degrade themselves by negotiating with their possessions.  
+与原始社会不同，农民拥有动物和植物，他们也就不会用一种平等的眼光来看待它们。原始社会里面人与动植物在一起在他们共有的生存环境里面“协商地盘”。
+
+Much of ancient mythology is in fact a legal contract in which humans promise everlasting devotion to the gods in exchange for mastery over plants and animals.  
+早期的神话是人类与神之间签订的契约，人类保证永久的供奉神来换得他们能够得到好的收成。
+
+As long as people lived their entire lives within limited territories of a few hundred square miles, most of their needs could be met by local spirits. But once kingdoms and trade networks expanded, people needed to contact entities whose power and authority encompassed a whole kingdom or an entire trade basin.  
+早期的人类只居住在很小的范围里，本土的神就可以满足他们的需求。一旦帝国和贸易网络扩大以后，人类就需要和更多的神打交道-而这些神掌管着一整个帝国和整个贸易网。
+
+While the king in his capital city sacrificed dozens of fat rams to the great war god, praying for victory over the barbarians, the peasant in his hut lit a candle to the fig-tree fairy, praying that she help cure this sick son.  
+形象的说明，形象的对比，一高一低，国王祈求战神，希望战胜野蛮人。农民在祈求树精，希望能帮助治愈生病的儿子。
+
+Polytheism thereby exalted not only the status of the gods, but also that of humankind. Less fortunate members of the old animist system lost their stature and became either extras or silent decor in the great drama of man's relationship with the gods.  
+多神主义提升的不是仅仅是神的地位，而是人类的地位。因为多神论者看待这个社会是神和人之间关系的反应。
+
+#### 12.2 The Benefits of Idolatry (偶像崇拜的好处)
+
+Polytheism does not necessarily dispute the existence of a single power or law governing the entire universe. In fact, most polytheist and even animist religions recognized such a supreme power that stands behind all the different gods, demons and holy rocks.  
+多神主义并不是否认只存在一个独立的律法来掌管整个宇宙。事实上，大多数的多神论者和泛神论者都认为有一个至高无上的权利在各个不同的神，魔，灵石背后。
+
+The fundamental insight of polytheism, which distinguishes it from monotheism, is that the supreme power governing the world is devoid of interests and biases, and therefor it is unconcerned with mundane desires, cares and worries of humans.  
+多神论和单一神论唯一的区别就是：至高无上的掌管世界的绝对权力是没有偏斜的，因此也就没有回应普通人类一般的欲望，关心和担忧的必要。
+
+The only reason to approach the supreme power of the universe would be to renounce all desires and embrace the bad along with the good - to embrace even defeat, proverty, sickness and death.
+
+Even when polytheists conquered huge empires, they did not try to convert their subjects.   
+把多神论和帝国联系起来了。
+
+The insight of polytheism is conducive to far-reaching religious tolerance.  
+多神论其实更包容。
+
+罗马从多神信仰转变为单一的基督信仰的转变过程里面，流血牺牲较少。而历史上Catholic和protestant之间的矛盾却很大，彼此的争论带来如此大的代价，不得不让人深思。
+
+
+
+
+
+
+
+
 
 
 
